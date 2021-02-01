@@ -21,6 +21,8 @@ added feature so that when the driver sets the package as delivered, it uses the
 - Issue with OpenLibre office. When opening a CSV file, the zeroes in front of integers are removed. I tried some other excel applications but all the apps I downloaded deleted the zeroes in front of integers. Provided a workaround for now. (Upon opening the CSV file, set the column as text). Will continue to find another way to set this as default though. 
 - Internal client label printer not working (Fixed)
 - Discussed Citilogistics Downstream app with Internal client
+- Installed google chrome, pdf reader, to the laptop. Update driver
+
 
 **1-26-2021**
 
@@ -140,3 +142,133 @@ Continue working on Andrew’s PC.
 -	Migrated the files(Completed)
 -	Installed and tested connections through MSP N-Central(Completed)
 -	Installing AV(Incomplete)
+-   New computers for internal client warehouse Set up the 4 new laptops update drivers, pdf reader and office installed Old laptop trackpad still not working.
+- Laptop does not turn on. They said it was damaged. Open up the laptop, remove the battery and cmos battery, still not working. Tried different battery chargers, it works. Updated the date and time. Battery is healthy. Just need new chargers.
+- 2 laptops aren't working. Upgraded the bios and mousepad. Open the other laptop, everything seemed to be well tacked in. Laptop still won't power up.
+- Phone issue with Internal Client. Software update keeps on failing. Tried different ethernet port. It successfully updated the phone. Fixed the date and time on the phone as well.
+
+**12-24-2020**
+
+- Fix label printer throwing an red error code. 
+- Installed wireless ethernet card to the computer outside. 
+- Working for the citilogistics app admin side.
+
+**12-23-2020**
+
+- Working on citilogistics admin side.
+
+**12-22-2020**
+
+- Fix Scanners 
+- Clean up some codes for the citilogistics app. 
+- Develop the management side of the citilogistics app.
+- Update the scanner and reconfiguration.
+
+**12-21-2020**
+
+- Outlook throws an error. Unable to open. Run quick fix to Microsoft Office.
+- Create a prototype for the app, 
+- Finish up Internal Client deep scan that was left from last week. 
+- Work on the design of the app. 
+- Move javascript templates to app.js for better SEO. 
+- Fixed the printer at the back. It was blinking red and not printing. 
+- Change the debug feature of the app. Instead of spitting out the query on each page. Now it added the SQL query to the error_log. This way we can easily trace what queries are running on a specific page.
+
+**12-19-2020**
+
+Set up the rack. Install the SAM to the rack.
+
+**12-18-2020**
+
+-Continue working on the app Created documents
+
+**12-17-2020**
+
+- Craddle is not communicating properly with the scanner. Reconfigured.
+- Have a discussion with Internal Client to better understand the columns from the Excel file data for the app. 
+- Resolve issue with Internal Client's computer still keeps getting pop ups (Removed adware) 
+- Internal client's computer still getting pop ups. It looks like that the adware already infected her browser. Reset google chrome settings. (Without removing her passwords) 
+- Continue working on citilogistics app. 
+- Improved the way we displayed packages (Ryan suggestions)
+
+**12-16-2020**
+
+- Replaced battery and reconfigure the scanner.
+- Ran CCleaner. 
+- Find which application eats all the space on the laptop (Outlook) 
+- Compressed the outlook file -Run powercfg /h off Clean up 21GB of space from 200MB.
+- Continue working on Citi App. 
+- Added feature to open google maps (MAP IT) 
+- Mark As Delivered function is done 
+- Undeliverable feature is done.
+
+**12-15-2020**
+
+- Internal Client lost her internet on laptop since yesterday. Turn off airplane mode. (Fixed) 
+- Fixed add_undeliverable page. 
+- Fixed displaying complete/incomplete packages for package list page and package details page. 
+- Fixed Mark Delivered page.
+
+**12-14-2020**
+
+- Drive to the internal client's place to troubleshoot Dead Computer. Plug out all unnecessary usb that are used to plugin to the computer.
+- Fix internal client's laptop. Some keys on the keyboard not working (Fixed) 
+- Continue working on the citilogistics app. Added content to add_undeliverable
+
+**12-11-2020**
+
+- Fix internal client screen in light blue contrast. Fixed. 
+- Internal client's Laptop has broken keyboard (Pending Fix) 
+- Citilogistics App add note feature done. 
+- Fix up some more codes.
+
+**12-10-2020**
+
+- Working on the packages page. 
+- Look at Internal client's computer. Windows update is not working. (Incomplete) 
+- Installed Wireless AC1300 PCI-E Adapter to Dona's computer (Completed) - Installed the Access Point
+
+**12-09-2020**
+
+- Added feature to crop the image before it gets uploaded to the server. 
+- Added functionality to upload images to the server. 
+- Added drivers app database to citilogistics. 
+- Added functions to show the routes, and gets the route page completed. 
+- Working with displaying the package details INCOMPLETE.
+
+**12-08-2020**
+
+- Working on generating a forgot password link to the requester. 
+- Added password validation when creating a new password 
+- Added feature to the save password to save DATE and time 
+- Fix update user profile. Added checks to confirm their password. 
+Also, make sure that the password is greater than 8 characters. 
+- Added variable sanitation to prevent SQL injection to the SQL queries
+
+**12-07-2020**
+
+- Finish the update profile page including changing of password frontend/backend 
+- Clean up the code 
+- Created tables for reset password 
+- Added send email feature (To be used for requesting a password) 
+- Added loading gifs when sending ajax requests.
+
+**12-04-2020**
+
+- Check the ethernet wire connections. Confirmed that they are connected to the same switch. Purolator said its connecting fine now. 
+- also check the phone it wasn't receving calls. Resta
+- Check that the server drives are okay. - Implementing login mechanism to the app
+
+**12-03-2020**
+
+- Clean up spare laptop, setup a new system. 
+- Setup scanners 
+- Setup 2 new laptops 
+- Troubleshoot laptop that has a non working touchpad -> Upgraded the drivers, but it seemed like the issue old tech from Lenovo didn't put in the hardware correctly. Advise Internal employee to continue with the issue.
+
+**12-02-2020**
+
+- Set up the rack. Install the SAM to the rack.
+- recycled all old hardware boxes. Moved the lights to the other storage. Tidy things up.
+- Finished building the template for the app. Tested in iPhone X, Samsung Galaxy S9 and iPad.
+
