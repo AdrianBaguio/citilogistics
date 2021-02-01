@@ -1,11 +1,13 @@
 # Citi App
-#1-29-2021
+
+1-29-2021
 Internal client - Still seeing weird numbers when converting .csv file into .xslx. Looks like that they have to change the format as text to solve this issue. I also asked Web Dev to add constraints when uploading a CSV file or xslx to check all the reference rows. if there is deemed to be a typo, stop the import and show an error instead. 
 Internal client - Printer does not work (Fixed)
 Continue working on citilogistics app
 - Testing drivers.citilogistics.app pages for the newly import pages.
 - Started developing page for the manifest.
-#1-28-2021
+
+1-28-2021
 Continue developing the Citilogistics app.
 - Upload citi tracking clone database in drvapp.
 - Upload citi packages clone database in drvapp.
@@ -17,9 +19,8 @@ added feature so that when the driver sets the package as delivered, it uses the
 - Issue with OpenLibre office. When opening a CSV file, the zeroes in front of integers are removed. I tried some other excel applications but all the apps I downloaded deleted the zeroes in front of integers. Provided a workaround for now. (Upon opening the CSV file, set the column as text). Will continue to find another way to set this as default though. 
 - Internal client label printer not working (Fixed)
 - Discussed Citilogistics Downstream app with Internal client
+
 1-26-2021
-
-
 Continue working on citilogistics app
 Work on integration with shiptools. (In progress)
 Found a bug that when uploading an image, it's submitting ajax multiple times. (In progress)
