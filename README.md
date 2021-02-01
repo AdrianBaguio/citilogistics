@@ -1,5 +1,13 @@
 # Insix IT/Web work log
 
+**2-1-2021**
+Working on citilogistics app.
+ - Working on generating manifest (Pending)
+Working on Downstream App.
+ - Created the database for the app
+ - Implemented Login/Logout/ reset password feature.
+ - Implemented importing CSV file to the database. 
+
 **1-29-2021**
 
 Internal client - Still seeing weird numbers when converting .csv file into .xslx. Looks like that they have to change the format as text to solve this issue. I also asked Web Dev to add constraints when uploading a CSV file or xslx to check all the reference rows. if there is deemed to be a typo, stop the import and show an error instead. 
