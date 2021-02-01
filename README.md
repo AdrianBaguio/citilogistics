@@ -1,6 +1,7 @@
 # Citi App
 
 1-29-2021
+
 Internal client - Still seeing weird numbers when converting .csv file into .xslx. Looks like that they have to change the format as text to solve this issue. I also asked Web Dev to add constraints when uploading a CSV file or xslx to check all the reference rows. if there is deemed to be a typo, stop the import and show an error instead. 
 Internal client - Printer does not work (Fixed)
 Continue working on citilogistics app
@@ -8,6 +9,7 @@ Continue working on citilogistics app
 - Started developing page for the manifest.
 
 1-28-2021
+
 Continue developing the Citilogistics app.
 - Upload citi tracking clone database in drvapp.
 - Upload citi packages clone database in drvapp.
@@ -21,14 +23,15 @@ added feature so that when the driver sets the package as delivered, it uses the
 - Discussed Citilogistics Downstream app with Internal client
 
 1-26-2021
+
 Continue working on citilogistics app
 Work on integration with shiptools. (In progress)
 Found a bug that when uploading an image, it's submitting ajax multiple times. (In progress)
 Created a tracking table for the driver app to keep track of events (Completed)
 Integrating tracking to add a photo, completed, and undelivered packages (In Progress)
 Internal client asked how to merge 2 columns in excel as this takes them hours to edit. Show how to do it in Excel but it's really complicated. Instead, install Visual Studio Code, and show how to edit multi lines in just 3 buttons.(Completed)
-1-25-2021
 
+1-25-2021
 
 Install Konica Minolta drivers to Internal client new PC. (Fixed)
 Internal client computer has no internet. Determine that the fault was the ethernet cable. The boxes and carts have damaged the ethernet cable. I purchased a crimple and ethernet cable tester. Should arrive in a couple of days. (In Progress)
