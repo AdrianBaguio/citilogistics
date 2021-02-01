@@ -8,7 +8,7 @@ Continue working on citilogistics app
 - Testing drivers.citilogistics.app pages for the newly import pages.
 - Started developing page for the manifest.
 
-1-28-2021
+**1-28-2021**
 
 Continue developing the Citilogistics app.
 - Upload citi tracking clone database in drvapp.
@@ -22,7 +22,7 @@ added feature so that when the driver sets the package as delivered, it uses the
 - Internal client label printer not working (Fixed)
 - Discussed Citilogistics Downstream app with Internal client
 
-1-26-2021
+**1-26-2021**
 
 Continue working on citilogistics app
 Work on integration with shiptools. (In progress)
@@ -31,13 +31,13 @@ Created a tracking table for the driver app to keep track of events (Completed)
 Integrating tracking to add a photo, completed, and undelivered packages (In Progress)
 Internal client asked how to merge 2 columns in excel as this takes them hours to edit. Show how to do it in Excel but it's really complicated. Instead, install Visual Studio Code, and show how to edit multi lines in just 3 buttons.(Completed)
 
-1-25-2021
+**1-25-2021**
 
 Install Konica Minolta drivers to Internal client new PC. (Fixed)
 Internal client computer has no internet. Determine that the fault was the ethernet cable. The boxes and carts have damaged the ethernet cable. I purchased a crimple and ethernet cable tester. Should arrive in a couple of days. (In Progress)
 Continue integrating the Driver app with Shiptools. 
-1-22-2021
 
+**1-22-2021**
 
 •	Internal client and Internal client weren't able to login to the server via filezilla.(Fixed, wrong connection. they are connecting through FTP instead of sftp.
 •	Internal client printer not printing correctly. (Fixed. adjust the printer configuration)
@@ -45,16 +45,16 @@ Continue integrating the Driver app with Shiptools.
 •	Continue developing the Citilogistics drivers app
 o	Talked to Web Dev about integration with shiptools
 o	Talk to Internal client and Internal client about the integration with shiptools and some other feature.
-1-21-2021
 
+**1-21-2021**
 
 Internal client wasn't able to download the application from his old computer. (Fixed - Firewall is blocking the site where the files are hosted, find a way to get them on Internal client's new PC.)  - Done
 Internal client was saying that the internet was slow. Confirm that the internet is stable. Seemed like the problem is with the EST Software from Canada Post. Called Canada Post software support. They advise reinstalling the software. (In process of re-installing one of the computers first to see if it will speed it up.) – Done
 Continue working on the Citilogistics app / Driver side
 •	Calculates how much data are spent to finish a route.
 -	Needs to optimize the package-list.php page. (In progress)
-1-20-2021
 
+**1-20-2021**
 
 - Fixed Internal client laptop not connecting to the internet.
 - Reset Internal client e-mail password
@@ -65,8 +65,8 @@ Continue working on the Citilogistics app / Driver side
 •	Added a page where the admin user can update the wrong delivered package in bulk.
 •	Added highlights to column records for Address and Photo Address better readability(list-package page)
 •	Add StopNumber in the package-list page. With circle ones. The same as what they can see from the driver app.
-1-19-2021
 
+**1-19-2021**
 
 Continue working on Citilogistics app admin/driver side
 Fixed the loading bug when marking the package as delivered. (Spinning icon won’t toggle off)
@@ -82,8 +82,8 @@ The pages are affected by these changes.
 •	package-list.php
 •	scan-package.php
 •	submit.php
-1-18-2021
 
+**1-18-2021**
 
 Continue working on citilogistics app.
 •	Show the photo taken by the driver on the list-packages page.
@@ -99,8 +99,8 @@ Continue working on citilogistics app.
 •	Added feature to show packages specifically by driver.
 •	Change SESSIONS with GET to maximize length of login time for the drivers. Add openSSL authentication on the driver login side.
 Setup PC in Internal client office. Desktop, Monitors, Keyboards and Mouse.
-1-15-2021
 
+**1-15-2021**
 
 Added feature to scan packages via cellphone and Bluetooth.
 - Ability to scan unique packages ( Avoid savings parcels that are already in our database )
@@ -111,15 +111,15 @@ Added scan package link to the navigation bar.
 Added feature to upload route and package specifically by the drivers.
 Fixed sorting in the list-package page.
 Added sort by delivered time stamp DESC on the Search Package page
-1-14-2021
 
+**1-14-2021**
 
 Continue working on Citilogistics app drivers side and admin side.
 •	Add scanned/unscanned packages list pages.
 •	Add a feature in the route list page to see how many packages have been released to the drivers.
 •	Add feature to scan parcels using mobile phone, and add the parcel and driver information to the database.
-1-12-2021
 
+**1-12-2021**
 
 Continue working on the citilogistics app. 
 - Fixed font sizes for custom buttons.
@@ -129,8 +129,8 @@ Continue working on the citilogistics app.
 - Enable options to display xcrud performance.
 - Removed xcrud in the admin page. It has been merged.
 - Created page for mobile bluetooth scanners (Incomplete)
-1-29-2021
 
+**1-29-2021**
 
 Work on the citilogistics app
 - Added a warning message when the browser doesn't support geo location.
