@@ -8,6 +8,21 @@ Continue working on citilogistics app
 - Testing drivers.citilogistics.app pages for the newly import pages.
 - Started developing page for the manifest.
 
+**1-29-2021**
+
+Work on the citilogistics app
+- Added a warning message when the browser doesn't support geo location.
+- Added a feature to show a warning message when the driver isn't at the same location as the package address.
+- Saved the addresses where the photo was taken.
+Continue working on Andrew’s PC. 
+-	Migrated the files(Completed)
+-	Installed and tested connections through MSP N-Central(Completed)
+-	Installing AV(Incomplete)
+-   New computers for internal client warehouse Set up the 4 new laptops update drivers, pdf reader and office installed Old laptop trackpad still not working.
+- Laptop does not turn on. They said it was damaged. Open up the laptop, remove the battery and cmos battery, still not working. Tried different battery chargers, it works. Updated the date and time. Battery is healthy. Just need new chargers.
+- 2 laptops aren't working. Upgraded the bios and mousepad. Open the other laptop, everything seemed to be well tacked in. Laptop still won't power up.
+- Phone issue with Internal Client. Software update keeps on failing. Tried different ethernet port. It successfully updated the phone. Fixed the date and time on the phone as well.
+
 **1-28-2021**
 
 Continue developing the Citilogistics app.
@@ -58,94 +73,144 @@ Continue working on the Citilogistics app / Driver side
 
 **1-20-2021**
 
-- Fixed Internal client laptop not connecting to the internet.
-- Reset Internal client e-mail password
-- Installed office 360 to Internal client PC. 
-- Diagnose issue with the big printer at the back.
-- Continue working on Citilogistics app
-•	Added feature to show # of wrong-delivered packages on the route page.
-•	Added a page where the admin user can update the wrong delivered package in bulk.
-•	Added highlights to column records for Address and Photo Address better readability(list-package page)
-•	Add StopNumber in the package-list page. With circle ones. The same as what they can see from the driver app.
+- Fixed Internal Client laptop not connecting to the internet. 
+- Reset Internal Client's e-mail password 
+- Installed office 360 to Internal Client's PC.
+- Diagnose issue with the big printer at the back. 
+- Continue working on Citilogistics app Added feature to show # of wrong-delivered packages on the route page. 
+- Added a page where the admin user can update the wrong delivered package in bulk. 
+- Added highlights to column records for Address and Photo Address better readability(list-package page) 
+- Add StopNumber in the package-list page. With circle ones. The same as what they can see from the driver app.
 
 **1-19-2021**
 
-Continue working on Citilogistics app admin/driver side
-Fixed the loading bug when marking the package as delivered. (Spinning icon won’t toggle off)
-Fixed up tooltip in the routes page for admin side
-Use PHP sessions for checking driver's authorization to the package and routes.
-Now the app is first checking the authorization in the session if it finds it, it uses the session instead of always hitting the database with the request( Which can slow down the site when there are many manifests saved in our database).
-The pages are affected by these changes.
-•	add-note.php
-•	add-photo.php
-•	add-undeliverable.php
-•	index.php
-•	package-details.php
-•	package-list.php
-•	scan-package.php
-•	submit.php
+- Continue working on Citilogistics app admin/driver side Fixed the loading bug when marking the package as delivered. (Spinning icon won’t toggle off) 
+- Fixed up tooltip in the routes page for admin side Use PHP sessions for checking driver's authorization to the package and routes. Now the app is first checking the authorization in the session if it finds it, it uses the session instead of always hitting the database with the request( Which can slow down the site when there are many manifests saved in our database). The pages are affected by these changes. 
+    • add-note.php 
+    • add-photo.php 
+    • add-undeliverable.php 
+    • index.php 
+    • package-details.php 
+    • package-list.php 
+    • scan-package.php 
+    • submit.php
 
 **1-18-2021**
 
-Continue working on citilogistics app.
-•	Show the photo taken by the driver on the list-packages page.
-•	Added tooltip and easy to access explanation to the important fields/column: Routes page, Search Package Page and Upload Routing File page
-•	Removed download csv in routes page and upload-routing-file page.
-•	Fixed some code in routes page.
-•	Enhance the page when viewing routes.
-•	Added view photo in the search-package and list-packages page.
-•	Updated the column names in search-package page.
-•	Fixed navbar for the drivers app.
-•	Fixed displaying photo addresses.
-•	Changed Add Parcel button color to green.
-•	Added feature to show packages specifically by driver.
-•	Change SESSIONS with GET to maximize length of login time for the drivers. Add openSSL authentication on the driver login side.
-Setup PC in Internal client office. Desktop, Monitors, Keyboards and Mouse.
+- Continue working on citilogistics app. 
+- Show the photo taken by the driver on the list-packages page. 
+- Added tooltip and easy to access explanation to the important fields/column: Routes page, Search Package Page and Upload Routing File page Removed download csv in routes page and upload-routing-file page. 
+- Fixed some code in routes page. 
+- Enhance the page when viewing routes. 
+- Added view photo in search-package and list-packages page. 
+- Fixed column names in search-package page. 
+- Fixed navbar for the drivers app. 
+- Fixed displaying photo addresses. 
+- Changed Add Parcel button color to green. 
+- Added feature to show packages specifically by driver. 
+- Change SESSIONS with GET to maximize length of login time for the drivers. 
+- Add openSSL authentication on the driver login side. Setup PC in Internal Client office. Desktop, Monitors, Keyboards and Mouse.
 
 **1-15-2021**
 
-Added feature to scan packages via cellphone and Bluetooth.
-- Ability to scan unique packages ( Avoid savings parcels that are already in our database )
-Created an e-mail for Internal client
-Added feature to see uploaded photos on the admin page.
-Added icons to the pages (Easier to navigate)
-Added scan package link to the navigation bar.
-Added feature to upload route and package specifically by the drivers.
-Fixed sorting in the list-package page.
-Added sort by delivered time stamp DESC on the Search Package page
+- Added feature to scan packages via cellphone and Bluetooth. 
+- Ability to scan unique packages ( Avoid savings parcels that are already in our database ) 
+- Created an e-mail for Internal Client. 
+- Added feature to see uploaded photos on the admin page. 
+- Added icons to the pages (Easier to navigate) Added scan package link to the navigation bar. 
+- Added feature to upload route and package specifically by the drivers. 
+- Fixed sorting in the list-package page.
+-  Added sort by delivered time stamp DESC on the Search Package page
 
 **1-14-2021**
 
-Continue working on Citilogistics app drivers side and admin side.
-•	Add scanned/unscanned packages list pages.
-•	Add a feature in the route list page to see how many packages have been released to the drivers.
-•	Add feature to scan parcels using mobile phone, and add the parcel and driver information to the database.
+- Update firmware to the scanner. Re program scanner.
+- Continue working on Citilogistics app drivers side and admin side. 
+    • Add scanned/unscanned package list pages. 
+    • Add a feature in the route list page to see how many packages have been released to the drivers. (not done) 
+    • Add feature to scan parcels and adds the parcel to the database.
+
+**1-13-2021**
+
+- Factory reset the scanners.(Does not work) 
+- Update the firmware of the scanners to the latest one. 
+- reconfigure the scanner. 
+- Open another ticket for zebra to help resolve the issue. (Still fixing the other scanner) it may be fault with the battery.
+- Working on citilogistics app 
+- Fixed font sizes for custom buttons. 
+- Added route progress animation. 
+- Fixed table labels on the users page. 
+- Added options so that the driver can take photos with 1 click. 
+- Enable options to display xcrud performance. 
+- Removed xcrud in the admin page. It has been merged. 
+- Created page for mobile bluetooth scanners (Incomplete)
 
 **1-12-2021**
 
-Continue working on the citilogistics app. 
-- Fixed font sizes for custom buttons.
-- Added route progress animation.
-- Fixed table labels on the users page.
-- Added options so that the driver can take photos with 1 click.
-- Enable options to display xcrud performance.
-- Removed xcrud in the admin page. It has been merged.
-- Created page for mobile bluetooth scanners (Incomplete)
+- Created 365 e-mail. Added 365 Business to the account and link the computers.
+- Continue working on the citilogistics app. 
+- Added photo address to the group in the list-packages page 
+- Fixed the admin app that when uploaded to the server, it stopped working. 
+- Added design to the selected active navbar. 
+- Changed and update the admin xcrud location. 
+- Change how the updating photo address location works so that when the photo was taken at the correction location, it adds Address Matched. 
+- Fixed up some codes Fixed the laptop not booting correctly.
 
-**1-29-2021**
+**1-11-2021**
+
+- Work on the citilogistics app 
+- Added a warning message when the browser used doesn't support geo location. 
+- Added a feature to show a warning message when the driver isn't at the same location as the package address. 
+- Saved the addresses where the photo was taken. Continue working on Internal Client's PC. 
+- Migrated the files(Completed) 
+- Installed and tested connections through MSP N-Central(Completed) 
+- Installing AV(Incomplete)
+
+**1-08-2021**
+
+- Clean up the boxes from work desk. 
+- Continue working on the citilogistics app. Implement Tracking of Location when taking pictures (Not Completed) 
+- Installed N-Central to Intenral Client's computer. 
+- Setup office application to Intenral Client's computer.
+
+**1-07-2021**
+
+- Trying to format Internal Client pc using windows 10 windows reinstall (Doesn't work, keeps getting blue screen of death) Trying to use HP recovery tool instead. Back up files through 365 OneDrive, and sync it to his new work computer. 
+- Set up the new computer for Internal Client
+
+**1-06-2021**
+
+- Laptop touchpad does not work.
+- Work on the citilogistics admin app. 
+- Reformat the computer but its throwing an error
+
+**1-05-2021**
+
+- Working on citilogistics admin app. 
+- Added feature to see completed projects in the route list page. 
+- Added feature to show # of active routes on the driver list page. 
+- Added instruction on how to upload csv file. 
+- Added search by package. Back up Internal Client's computer files.
+
+**1-04-2021**
 
 Work on the citilogistics app
-- Added a warning message when the browser doesn't support geo location.
-- Added a feature to show a warning message when the driver isn't at the same location as the package address.
-- Saved the addresses where the photo was taken.
-Continue working on Andrew’s PC. 
--	Migrated the files(Completed)
--	Installed and tested connections through MSP N-Central(Completed)
--	Installing AV(Incomplete)
--   New computers for internal client warehouse Set up the 4 new laptops update drivers, pdf reader and office installed Old laptop trackpad still not working.
-- Laptop does not turn on. They said it was damaged. Open up the laptop, remove the battery and cmos battery, still not working. Tried different battery chargers, it works. Updated the date and time. Battery is healthy. Just need new chargers.
-- 2 laptops aren't working. Upgraded the bios and mousepad. Open the other laptop, everything seemed to be well tacked in. Laptop still won't power up.
-- Phone issue with Internal Client. Software update keeps on failing. Tried different ethernet port. It successfully updated the phone. Fixed the date and time on the phone as well.
+- Broken monitor. Its super dark. Confirmed that the monitor vga cable might be broken. However it is integrated with the monitor. Replaced a monitor fixed. Work on the citiogistics admin app. 
+- Removed edit from the packages list. 
+- Added functionality to show packages by drivers. 
+- Fixed the routes list page. 
+- Add a feature to import csv file to import route packages.
+
+**12-31-2020**
+
+- Outlook stopped working. Remove old account. Readd the account account. Add office license to the account
+- Work on citilogistics app.
+
+**12-30-2020**
+
+- Setup new laptop. 
+- Work on the citilogistics admin side. 
+- Discussed the database information for the admin app.
 
 **12-24-2020**
 
