@@ -1,14 +1,11 @@
 # Citi App
-1-29-2021
-
+#1-29-2021
 Internal client - Still seeing weird numbers when converting .csv file into .xslx. Looks like that they have to change the format as text to solve this issue. I also asked Web Dev to add constraints when uploading a CSV file or xslx to check all the reference rows. if there is deemed to be a typo, stop the import and show an error instead. 
 Internal client - Printer does not work (Fixed)
 Continue working on citilogistics app
 - Testing drivers.citilogistics.app pages for the newly import pages.
 - Started developing page for the manifest.
-1-28-2021
-
-
+#1-28-2021
 Continue developing the Citilogistics app.
 - Upload citi tracking clone database in drvapp.
 - Upload citi packages clone database in drvapp.
