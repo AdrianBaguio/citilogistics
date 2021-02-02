@@ -1,5 +1,20 @@
 # Insix IT/Web work log
 
+**2-2-2021**
+Downstream Admin App
+- Create a new page Master Page that shows lists of Master Airway Bill. (Completed)
+- Packages page will be the secondary page. (Completed)
+Downstream Scanner App
+- Implemented Scan Mono (Completed)
+- Implemented Scan package and show where the destination of the package  (Completed)
+- Created a function for postal code split. (Completed)
+    - Scan Mono ID first
+    - Scan the package.
+    - Added a way to change Mono ID when the user is done scanning.
+- Modify CSV Upload so that the app knows who uploaded the CSV file.
+- Modify CSV Upload so that it updates the destination of all packages instead of when the user is scanning the parcel. (Completed)
+- Created the app on 2 pages. Admin and Regular User (Use the template from citilogistics drvapp)
+
 **2-1-2021**
 Working on citilogistics app.
  - Working on generating manifest (Pending)
