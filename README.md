@@ -1,5 +1,20 @@
 # Insix IT/Web work log
 
+**2-4-2021**
+- Show the app to Internal Client Admin/Scanner side. He likes it. (Completed)
+- Show the app to Internal Client Admin side. She likes it, and just ask to add the mono ID for scanned packages. (Completed)
+- Send Downstream credential to Internal Client (Completed)
+- Started developing a page that generates a barcode. Internal Client suggests we could also just use the current labels they got here. (Pending)
+- Working on citilogistics app admin side.
+- Working on print-manifest. (Pending)
+
+**2-4-2021**
+2-3-2021
+Internal Client e-mail not receiving e-mail messages: troubleshoot the issue, stuck in synchronizing e-mail. Run 365 repair. does not fix the issue, reinstalled the 365. 
+Added outlook.com onto her desktop and ask to use that for now while we are fixing the issue.
+- After reinstallation, she's getting the e-mail now but does not appear on the inbox. Maybe because it hasn't downloaded all the messages yet. Asked that I will come back at noon to fix the issue.
+- Remove the old excel app from the pcs in the warehouse. (Not completed. They want me out cause clients are there.)
+
 **2-2-2021**
 Downstream Admin App
 - Create a new page Master Page that shows lists of Master Airway Bill. (Completed)
