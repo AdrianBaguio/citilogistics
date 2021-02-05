@@ -1,5 +1,24 @@
 # Insix IT/Web work log
 
+**2-5-2021**
+Continue working on Downstream App.
+- Show the app to Internal Client the Admin/Scanner side. He likes it. (Completed)
+- Show the app to Internal Client Admin side. She likes it, and just ask to add the mono ID for scanned packages. (Completed)
+- Send Downstream credential to Internal Client (Completed)
+- Started developing a page that generates a barcode. Internal Client suggests we could also just use the current labels they got here. (Pending)
+- Working on the citilogistics app admin side.
+- Working on print-manifest. (Pending)
+- Unable to login to outlook. Reset outlook password (Completed) Remove e-mail from the following groups in internal client e-mail
+- Setup an account for Newly hired - Added her e-mail to Internal Client Email Groups
+- Setup a new e-mail 
+- Setup the computer 
+- Fix Time 
+- Update Drivers 
+- Install Office 365 
+- 1 Monitor is not working.
+- Tried a working cable still does not work. 
+- Tried a different monitor it works. Found a replacement monitor.
+
 **2-4-2021**
 - Show the app to Internal Client Admin/Scanner side. He likes it. (Completed)
 - Show the app to Internal Client Admin side. She likes it, and just ask to add the mono ID for scanned packages. (Completed)
@@ -8,8 +27,7 @@
 - Working on citilogistics app admin side.
 - Working on print-manifest. (Pending)
 
-**2-4-2021**
-2-3-2021
+**2-3-2021**
 Internal Client e-mail not receiving e-mail messages: troubleshoot the issue, stuck in synchronizing e-mail. Run 365 repair. does not fix the issue, reinstalled the 365. 
 Added outlook.com onto her desktop and ask to use that for now while we are fixing the issue.
 - After reinstallation, she's getting the e-mail now but does not appear on the inbox. Maybe because it hasn't downloaded all the messages yet. Asked that I will come back at noon to fix the issue.
