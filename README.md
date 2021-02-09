@@ -1,4 +1,30 @@
 # Insix IT/Web work log
+**2-9-2021**
+Continue working on the citilogistics app.
+- Uploaded changes to live server for testing.
+- Print-manifest is showing weird things (Fixed up some code fixed.)
+- Removed unnecessary CSV download on the driver's list page.
+- Removed CSV download in the search package page.
+internal client asks to find the IP address by the email address cause the customer apparently pay on the phone.
+- Could find the customer by package ID, but it doesn't seem that we have her IP Address. Asked other dev, he could not see it either.
+- Install label printer at internal client workstation
+- Missing USB. found one in the warehouse
+- Internal client new printer not printing correctly needs modification. (Pending it was busy in the warehouse couldn't use her laptop.)
+- Walk through with the internal client about the Citilogistics app. Admin/Driver side.
+
+**2-8-2021**
+Internal client was having a problem updating EST. (Open with admin access fixed)
+Still not fixed, the application goes in the loop on updating the EST app.
+- Find out that software update is installing a new app(Update) to a different directory(Programming fault from Canada Post, not us)
+- Find the new directory and add a shortcut to the desktop (It's now working)
+- One of the scanner's cradle is broken. The battery is changed already, but when charging on the cradle, the scanner is lit red and won't charge. Try another cradle, it's charging fine.
+Continue working on citilogistics app
+- Working on generating PDF for printing manifest.
+- Added information so that it shows the actual time when the package was delivered.
+- Added information to show the actual time when the package was scanned by the driver from the Facility.
+- Added option customize print. For example, hide Driver Name, Date, Job# and manually entering the field.
+- Added footer to the login page.
+
 
 **2-5-2021**
 Continue working on Downstream App.
