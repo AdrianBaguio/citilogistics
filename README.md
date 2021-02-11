@@ -1,4 +1,29 @@
 # Insix IT/Web work log
+**2-11-2021**
+- Added a vibration when the package was not found (Only compatible with androids phone for now)
+- Added a feature to alert the driver when the package is not found. This is very important because when the driver is scanning, I noticed that they are not looking on the phone
+- Vibrate the phone (Only works on some android compatible device)
+- Added a siren sound and disable the scan package button for 5 seconds when the package is not found. There will also a sound notification when the app has completed scanning the package.
+- Showed Internal Client the app.
+- So far so good, but a complaint about the image quality. Making it a bit bigger.
+- Install Webcam and Speakers to Internal Client
+
+**2-10-2021**
+Working on Citilogistics app.
+- Send an e-mail to Internal Client about the costs of using geo API from google
+- Fixed printing manifest. Internal Client was saying we could add more packages per page.
+- Modify print-manifest to print 12 packages per page. Trimmed the name and address if it's too long.
+- Test the app with the driver
+                - Initial login error(Fixed)
+                - Unable to take camera pictures. due to lack of permission on the phone. (This is a known issue with older android phones. It's either they have to update their Android OS or use Firefox.)
+- App closes when standing by for a long time (Pending)
+- Most of the time the driver isn't looking at the phone while scanning.    Adding a sound when failed to add a package. (Pending)
+- Add a sound if could not find a package (Pending)
+- Show packages that are missing (Pending)
+- Added shortcut to drivers.citilogistics.ca in android (Fixed)
+- There will be no more POD Photo page, instead it is now part of the package details page. Opens up a Camera and when finished, redirected back to the Package List Page. This will shorten the time when using the app (Fixed)
+- Help to fix the speaker
+
 **2-9-2021**
 Continue working on the citilogistics app.
 - Uploaded changes to live server for testing.
