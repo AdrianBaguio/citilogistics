@@ -1,4 +1,20 @@
 # Insix IT/Web work log
+**2-12-2021**
+Conducted another test with Internal Client. Asked Internal Client to test the app.
+- Problem with the scanner. When plugged in on the phone, the keyboard went missing (Unable to type the reference number manually on IPHONE ONLY)
+- Temporarily solution, disconnect the scanner.
+- Changed Route List page, Show the newest one on the top.
+- Routes that haven't been scanned yet will be redirected to Scan Package.
+- Routes that have been scanned will be redirected to Start Route.
+- Scan Package Changes
+- Ability for the drivers to scan package by Route Name or scan package for all their routes.
+- [Needs fixed]
+- Address match, but names are slightly different from the package to google addresses.
+- On Safari phone always asks for permission every time the driver takes a photo (Ask Mehroj to use firefox instead.)
+- When taking pictures, the camera on the iPhone always opens at the front.
+- Add email address to internal client group e-mail. Check why they are unable to sign in with email address. After further investigation, the are actually using a wrong e-mail address.
+- Reset e-mail password for internal client.
+
 **2-11-2021**
 - Added a vibration when the package was not found (Only compatible with androids phone for now)
 - Added a feature to alert the driver when the package is not found. This is very important because when the driver is scanning, I noticed that they are not looking on the phone
