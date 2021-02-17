@@ -1,4 +1,22 @@
 # Insix IT/Web work log
+**2-17-2021**
+- Check if shiptools get updated when the driver scanned packages in the warehouse. (Working as intended)
+- Check if shiptools gets updated when the driver had delivered the package (Working as intended)
+- Fix Bug when resubmitting packages that have the image uploaded already, Wasn't able to complete delivery (Fixed) 
+- Working on showing drivers deliveries on google map. (In progress)
+
+**2-16-2021**
+Continue working on the citilogistics app.
+- Capture the longitude and latitude to be used later on google map drops.
+- Fix Avenues and Circle in addresses.
+- Change the undeliverable page to capture longitude and latitude.
+- Change add photo page to capture longitude and latitude.
+- Change package list page on marking as delivered to capture longitude and latitude.
+- Update the parcel's status as delivered in shiptools.
+- Add missing tracking information in shiptools
+- Driverapp is now connected with shiptools.
+- Will conduct another test.
+
 **2-12-2021**
 Conducted another test with Internal Client. Asked Internal Client to test the app.
 - Problem with the scanner. When plugged in on the phone, the keyboard went missing (Unable to type the reference number manually on IPHONE ONLY)
