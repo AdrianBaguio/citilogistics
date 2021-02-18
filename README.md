@@ -1,4 +1,14 @@
 # Insix IT/Web work log
+**2-18-2021**
+- Make the spinner bigger on package-details.
+- Disabled sending notification when the driver maybe be in the wrong location 
+- Fixed photo always front (On IOS). 
+- Fixed address match on google. (Added Crescent on the check)
+- Update shiptools on bulk release packages
+- Added longitude and latitude in the package-details page. 
+- Added search by package id in the search-package page. 
+- Update shiptools when the admin set the parcels as scanned (Manual Scanned) 
+
 **2-17-2021**
 - Check if shiptools get updated when the driver scanned packages in the warehouse. (Working as intended)
 - Check if shiptools gets updated when the driver had delivered the package (Working as intended)
