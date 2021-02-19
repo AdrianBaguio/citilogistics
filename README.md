@@ -1,4 +1,12 @@
 # Insix IT/Web work log
+**2-19-2021**
+- Working on citilogistics app.
+- Automatic fast navigation issue with IOS. IOS just hangs up looks like compatibility issue with google and apple. (Fixed set it to use the old way on IOS and fast way for android)
+- Changed updating images. Since these photos are very important to us, I'll be just archiving the old ones with different names.
+- Added a fix option on alignment on print-manifest.
+- Add Photo Feature on add undeliverable package.
+- Working on maps.php page.
+
 **2-18-2021**
 - Make the spinner bigger on package-details.
 - Disabled sending notification when the driver maybe be in the wrong location 
