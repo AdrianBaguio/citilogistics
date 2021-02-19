@@ -6,6 +6,7 @@
 - Added a fix option on alignment on print-manifest.
 - Add Photo Feature on add undeliverable package.
 - Working on maps.php page.
+- Test another 150 packages to Android Phones.
 
 **2-18-2021**
 - Make the spinner bigger on package-details.
