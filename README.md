@@ -1,4 +1,14 @@
 # Insix IT/Web work log
+**2-22-2021**
+- Internal Client's computer is freezing. Tested her computer and it doesn't show any sign of slowing down. Ask her to call me when it freezes again.
+- Internal Client's asks to fix the computer at the warehouse. CanadaPost app doesn't sync into one of the computers. Change the settings to sync into the CanadaPost server instead of local. (Fixed)
+- Internal Client was not able to connect to nology server using FTP Client. Incorrect connections settings (Fixed)
+- Continue working on citilogistics app.
+- Undeliverable status updating shiptools is working.
+- Continue working on the maps page.
+- Added a feature to view the route name on the Search Package page.
+- Clean up the search-package page. Limits the view to Route Name, Parcel ID, Status and Delivery Date and puts other essential information to view more.
+
 **2-19-2021**
 - Working on citilogistics app.
 - Automatic fast navigation issue with IOS. IOS just hangs up looks like compatibility issue with google and apple. (Fixed set it to use the old way on IOS and fast way for android)
