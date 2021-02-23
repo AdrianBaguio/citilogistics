@@ -1,4 +1,16 @@
 # Insix IT/Web work log
+**2-23-2021**
+- Continue working on citilogistics app.
+- Trying to resolve issue with iphone not being able to type manually when the Bluetooth scanner is connected. ( Found a solution to scan a barcode when the keyboard does not show up. Print multiple copies to be displayed in the warehouse. Fixed )
+- Add feature to archive routes.  (Fixed)
+- Fix driver side so that it won't show archive routes. (Fixed)
+- When using the app on moto g8 phone it doesn't provide accurate user address. (Still under investigation)
+- Add search by days/months/years in the report page (In Progress)
+- Internal Client said that the Toledo Weight Scale is not working. Try different USB Port. USB port detected, reconfigure it with the UPS software.
+- Add Internal Client to email group
+- Move inbox messages to archieve for admin e-mail.
+
+
 **2-22-2021**
 - Internal Client's computer is freezing. Tested her computer and it doesn't show any sign of slowing down. Ask her to call me when it freezes again.
 - Internal Client's asks to fix the computer at the warehouse. CanadaPost app doesn't sync into one of the computers. Change the settings to sync into the CanadaPost server instead of local. (Fixed)
