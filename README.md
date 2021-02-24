@@ -1,4 +1,13 @@
 # Insix IT/Web work log
+**2-24-2021**
+Continue working on citilogistics app.
+Added a Narrow Search feature to search by the number of minutes, the number of hours, and the number of months or show all in the search package page.
+Add feature to show actual deliveries on the map using OpenStreetMap
+Add a link to show the map on the routes page.
+Fixed search-package page to automatically display the package information when searching for a specific package.
+Add maps to the navigation.
+Add another fix for Google Maps. crescent, court, boulevard and west.
+
 **2-23-2021**
 - Continue working on citilogistics app.
 - Trying to resolve issue with iphone not being able to type manually when the Bluetooth scanner is connected. ( Found a solution to scan a barcode when the keyboard does not show up. Print multiple copies to be displayed in the warehouse. Fixed )
