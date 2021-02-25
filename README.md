@@ -1,4 +1,17 @@
 # Insix IT/Web work log
+**2-25-2021**
+- Received a laptop from FB. The user was not able to log in. Requires admin password.
+- Deleted the user and create a new user. The computer is running too slow. Reformatting the PC.
+- Printer issue, the technician ask to update the driver from the server. Was just informed that FB has no server.
+- Set up the new laptop for the driver app.
+- Check and set up new mobile phone scanners.
+- Continue working with ship tools.
+- Discussed with Laurie to check integration with ship tools. The app is not updating both the Pin and Pin Date.
+- Export driver app tracking history and update the Pin Date and PIN accordingly. 
+- Apply the patch to the driver app to update the pin and pin date.
+- Fix issue when uploading photo sideways. Make it to upload upfront.
+- Fixed issue displaying photos, not upside down.
+
 **2-24-2021**
 - Continue working on citilogistics app.
 - Added a Narrow Search feature to search by the number of minutes, the number of hours, and the number of months or show all in the search package page.
