@@ -1,4 +1,14 @@
 # Insix IT/Web work log
+**2-26-2021**
+- FIXED image rotation after optimizing it.
+- Add Shiptools integration for new POD uploaded by the driver.
+- Added undeliverable after undeliverable reason.
+- Changed "completed" to "delivered" when displaying delivered packages on the list-packages page
+- Changed "completed" to "delivered" when displaying delivered packages on the search-package page
+- Move Google Geo API to its page (Hide API key from bad people. It was used to be vulnerable. Now its completely hidden)
+- Fix search package to add an undeliverable message before undeliverable reasons.
+- Change integration with Shiptools. Instead of using ./, it's now using the actual driver app URL.
+
 **2-25-2021**
 - Received a laptop from FB. The user was not able to log in. Requires admin password.
 - Deleted the user and create a new user. The computer is running too slow. Reformatting the PC.
