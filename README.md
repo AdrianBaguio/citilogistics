@@ -1,4 +1,12 @@
 # Insix IT/Web work log
+**3-1-2021**
+- Continue working on citilogistics app.
+- Fixed Shiptools POD database table. before it was using "Photo Link" (Which was used for the driver app). Change all these occurrences with the actual link (Photo Link)
+- Added a feature to add notes to the driver's account. (Completed)
+- Working on another feature to deliver multiple package at once. (Pending not too sure if this is possible though, as I'm seeing conflict with updating the shiptools)
+- Internal client computer is slow. Run indexing on the computer and will leave it overnight. (Pending)
+- Ask to install another screen. will do it tomorrow. (Pending)
+
 **2-26-2021**
 - FIXED image rotation after optimizing it.
 - Add Shiptools integration for new POD uploaded by the driver.
