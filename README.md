@@ -1,4 +1,36 @@
 # Insix IT/Web work log
+**3-4-2021**
+- Installed monitor for internal staff
+- Monitor is too dark internal staff (Reset monitor settings) 
+- Set the configuration for PDF to print barcodes correctly 
+- Staff called saying the printer not working when printing 75 labels. Troubleshoot, found out that someone uplugged the USB. 
+Working on citilogistics.
+- Add barcode generator in driverapp cause some packages have missing barcodes and drivers are having a hard time putting these in manually. 
+- Integrated with shiptools so that when the barcode is generated, it automatically prints out the Name, and Package destination as well.
+- Added a feature so that it doesn't generate the same label even though the reference is inputted twice.
+- Troubleshooting image location ( In Progress )
+- Check the accountant's computer.
+- I don't see any sign of slowing down. She said the computer slows down once in a while.
+- Gather information and send it to the main office to get a better understand of what upgrade she needs.
+
+**3-3-2021**
+- Discussed the issue with marking multiple packages before starting with Internal Client.
+- Issue with shiptools. Updating with incorrect data to the pin column.
+- Added a link to the driver's account on the Routes page.
+- Fixed integration with citi_packages. Updating PIN with "1-Delivered"
+- Updated all other deliveries PIN with "1-Delivered"
+- One big tablet android keyboard is not working when the Bluetooth is connected. Advise to scan all the packages first then when done, disable the scanner and type in the barcode manually.
+- Bluetooth scanners are not showed on the list of Bluetooth devices of the driver. Hard reset (Fixed)
+
+**3-2-2021**
+Continue working on citilogistics app.
+- Fixed Shiptools POD database table. before it was using ./LINK(Which was used for the driver app). Change all these occurrences with the actual link (LINK)
+- Added a feature to add notes to the driver's account.
+- Working on another feature to delivered multiple package at once. (Pending not too sure if this is possible though, as there’s a lot of conflict with updating the shiptools)
+- Internal Staff computer is slow. Run indexing on the computer and will leave it overnight.
+- Ask to install another screen. will do it tomorrow.
+
+
 **3-1-2021**
 - Continue working on citilogistics app.
 - Fixed Shiptools POD database table. before it was using "Photo Link" (Which was used for the driver app). Change all these occurrences with the actual link (Photo Link)
