@@ -1,4 +1,18 @@
 # Insix IT/Web work log
+**3-5-2021**
+- Internal Staff asks that citi back up aren't working because Altaro VM Back-Up is 2 updates behind
+  - Update may require the server to reboot. 
+  - Asked everyone first for permission when this can be done.
+- Driver called, Internal Staff says that the driver app is not working on his google pixel phone. Asked to do a hard reset of the phone. Assist the driver on how to do it on his phone. Fixed
+- Another driver who has iPhone called in, after taking a picture, it doesn't work. (Previously able to deliver 4 routes with no problem. Suspected to have change settings on his phone). 
+- Ask to install Chrome, Opera still does not work. After troubleshooting the issue was that his location was off. Fixed.
+- Taking over task #3 from a web dev (Found out that they are also having issues with the reference value kept on changing) Not anyone's fault but Excel, advise to use OpenOffice to deal with this specific client.
+- Discussed task #5, looking for a temporary fixed since FB isn't uploading their manifest to shiptools on time. Advised not to create an app for this.
+Working on the driver app.
+- Fixed postal code on generate-label page
+- Added a feature to automatically archive routes that are a month old. (Cronjobs)
+- Force devices to enable high accuracy when using gps on the phone.
+
 **3-4-2021**
 - Installed monitor for internal staff
 - Monitor is too dark internal staff (Reset monitor settings) 
