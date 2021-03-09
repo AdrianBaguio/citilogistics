@@ -1,4 +1,16 @@
 # Insix IT/Web work log
+**3-9-2021**
+- Go with Internal Staff to show a basic fundamental on how e-tower works. She provided me with the credential using Internal Staff e-mail.
+- Read e-tower documentation and manual to get a better understanding of the system 
+- Sit with Other DEV on how to change the name of the companies in shiptools. 
+  - Requires changing of the name in the code, and name in FTP access too. 
+- Issue with the driver app. One of the drivers complains that he wasn't able to mark the package as delivered. The issue with the code javascript / fixed.
+- Download Cognex Dataman SDK. (Fixed)
+- Created the first project on c# to connect via telnet (Fixed)
+- Test Cognex Scanners, it's shows the actual barcodes correctly. (Fixed)
+- Need to change the code so that it displays the new one from the top. (In Progress)
+- Maybe add a scroll bar to the telnet response? (In Progress)
+
 **3-6-2021**
 - Unable to scan parcels with the new scanners.
 - Test scanning parcels with the old scanners still does not work.
