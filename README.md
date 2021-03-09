@@ -1,4 +1,11 @@
 # Insix IT/Web work log
+**3-6-2021**
+- Unable to scan parcels with the new scanners.
+- Test scanning parcels with the old scanners still does not work.
+- After investigating the labels, it seemed like that the faulty was the label itself. A portion of the label is blanked, thus scanners weren't able to read them correctly.
+- Fixed skip addresses for google geo API. mapObj for Cres, Dr., Blvd, Cres., Cr, Crt.
+- Fixed submitting photo. A little slow. Check the queries being done when submitting a photo. Gets rid of redundancy on using the update package function.
+
 **3-5-2021**
 - Internal Staff asks that citi back up aren't working because Altaro VM Back-Up is 2 updates behind
   - Update may require the server to reboot. 
