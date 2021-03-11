@@ -1,4 +1,19 @@
 # Insix IT/Web work log
+**3-10-2021**
+- Internet Staff asks if we can continue with the server update. 
+- Waiting for confirmation as not everyone in the office yet. 
+- Confirmed with the internal staff to run server update at around 4 PM. 
+- Update the .net framework on the server. (Fixed) 
+- Run windows update as well (Fixed) 
+- There was no internet at the operations in warehouse. Restarted the switch(Fixed) 
+- Finished running the server update. Make sure that the share drives are accessible. (Confirmed and Fixed)
+- Continue working with the telnet app. 
+- When exiting the app, the app stays on the background (Bug) (Fixed) 
+- Created another form to separate app connected and not connected. 
+- Fixed it so that the recent scanned parcels will be on the top. 
+- Saved the time when the parcel was scanned. 
+- Searching for which database to use for this project. MySQL, SQL Lite, NoSQL or MSSQL.
+
 **3-9-2021**
 - Go with Internal Staff to show a basic fundamental on how e-tower works. She provided me with the credential using Internal Staff e-mail.
 - Read e-tower documentation and manual to get a better understanding of the system 
