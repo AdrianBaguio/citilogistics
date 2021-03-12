@@ -1,4 +1,26 @@
 # Insix IT/Web work log
+**3-12-2021**
+- Internal Staff called at 7:30 in the morning calling a driver weren't able to deliver a package. (Fixed)
+- Code issue. Went early to work this morning since I don't have access to the drvapp code at home. Call back the drivers to confirm that the issue are fixed. (Fixed)
+- Continue working on fixing Internal Staff corrupted outlook file.
+- Internal Staff outlook freezing. Force exit. Run 365 Office Repair Tool (Still Under Investigation)
+- Internal Staff email not working (Run the outlook scan tool multiple times) able to recover her personal inbox and rules (Fixed)
+- Internal Staff teams is not working. Issue with privilege. Removed Plan 1 license from the exchange server (Fixed)
+- Internal Staff computer error of death when printing. Issue with newly installed windows update. Run a system restore. (Fixed)
+- Completely migrating files of Internal Staff over to her new laptop. (Fixed)
+- Setup monitors keyboard and mice for Internal Staff laptop(Completed) 
+- Internal Staff printer is not working. Known issue from Microsoft updates (Fixed)
+- Started working on integrating c# with shiptools to get parcel status.
+
+
+**3-11-2021**
+- Internal Staff asks if we can continue with the server update. Waiting for confirmation as not everyone in the office yet.
+- Confirmed with the girls and Internal Staff to run the server update at around 4 PM.
+- Update the .net framework on the server. (Fixed)
+- Run windows update as well (Fixed)
+- There was no internet at the operations in a warehouse. Restarted the switch(Fixed)
+- Finished running the server update. Make sure that the share drives are accessible. (Confirmed and Fixed)
+
 **3-10-2021**
 - Internet Staff asks if we can continue with the server update. 
 - Waiting for confirmation as not everyone in the office yet. 
