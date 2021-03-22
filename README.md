@@ -1,4 +1,42 @@
 # Insix IT/Web work log
+**3-19-2021**
+- Internal Client laptop keyboard not working. Let her used a keyboard for now.
+(Proceed with system restore) - Check if this will fix the issue.
+Still not working trying in safe mode.
+Provided her with a keyboard (Fixed)
+- Marking this as the keyboard hardware issue.
+- Driver called in stuck in loading. Issue a call back (Fixed)
+- Internal Client moved her computer to the corner and have access to wifi only. Unable to access her e-mail and no internet connection and not able to print (Fixed)
+- FIX Integration with shiptools. Added features to support more clients like RRD and Reliable. (Fixed) 
+- FIX issue when deleting temporary routes and packages. (Fixed)
+
+**3-18-2021**
+Fix layout for the pages. (Fixed) 
+- Reduce icon (Fixed) 
+- Problems with importing incorrect data that doesn't match to shiptools and driverapp. (Fixed) 
+- Remove pieces in the package list page. (Fixed)
+- Issue with the driverapp and shiptools. Reference and consignment ID mismatch Internal Client.(Fixed) 
+- Created a query to fix this. (Fixed) - Issue with updating shiptools RRD and Reliable. 
+- Working with Laurie on how to fix this issue (In Progress)
+
+**3-17-2021**
+- Internal Client ask for assistance to print longer paper. Showed how (Fixed)
+- Internal Client ask for assistance about weird numbers in excel. Advised to use Librecalc (Fixed)
+- Unable to generate an address in the generate-label page. (Fixed)
+- After investigation, it seemed like they are typing the same Reference # but not case sensitive (Lowercase instead of uppercase). Applied a patch so that when a reference # is not found, it then tries to get a non-case-sensitive search.
+
+**3-16-2021**
+Added a feature in the list-packages page to view exactly all the history from the package. Internal Client
+Fixed bugs when Internal Client mark packages as released and suddenly change the driver (Fixed)
+Update Internal Client office to 365. (Fixed)
+The issue with the app. The driver is unable to start after changing drivers in the admin menu (Fixed)
+
+**3-15-2021**
+- Internal Client called at 7:30 in the morning calling a driver weren't able to deliver a package. (Fixed)
+- Code issue. Went early to work this morning since I don't have access to the drvapp code at home. Call back the drivers to confirm that the issue are fixed. Internal Client (Fixed)
+- Continue working on fixing Internal Client corrupted outlook file (Run the outlook scan tool multiple times) able to recover her personal inbox and rules (Fixed)
+- Internal Client outlook freezing. Force exit. Run 365 Office Repair Tool (Still Under Investigation)
+
 **3-12-2021**
 - Internal Staff called at 7:30 in the morning calling a driver weren't able to deliver a package. (Fixed)
 - Code issue. Went early to work this morning since I don't have access to the drvapp code at home. Call back the drivers to confirm that the issue are fixed. (Fixed)
@@ -11,7 +49,6 @@
 - Setup monitors keyboard and mice for Internal Staff laptop(Completed) 
 - Internal Staff printer is not working. Known issue from Microsoft updates (Fixed)
 - Started working on integrating c# with shiptools to get parcel status.
-
 
 **3-11-2021**
 - Internal Staff asks if we can continue with the server update. Waiting for confirmation as not everyone in the office yet.
