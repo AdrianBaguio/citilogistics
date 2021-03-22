@@ -1,4 +1,18 @@
 # Insix IT/Web work log
+**3-22-2021**
+Bug in the maps.php, Unable to the map in view map, Issue with apostrophies. (Fixed)
+Bugs on routes.php. driver release on the admin side not working. Issue with xCrud, needs to merge update_driver_release function and update_cid_after_edit function.(Fixed)
+Updated functions in xcrud/functions.php.
+Bugs on admin release (Fixed)
+Internal Client email got corrupted. Unable to open her e-mail.
+Make a back up of the corrupted file.
+Run Outlook PST File Repair Tool (Does not fix it)
+Do a workaround to fix the issue(Fixed)
+Re added e-mail for ezclear.
+Internal Client was having issues with outlook. After further investigation it was an issue that she was sending file exceeds the limit. Over 35 MB.
+Internal Client was having issues with the rules. Explain to her that it was a rules issue. Guide her to fix it.
+Internal Client was having issue with google chrome. Suddenly does not open in the morning. Fixed
+
 **3-19-2021**
 - Internal Client laptop keyboard not working. Let her used a keyboard for now.
 (Proceed with system restore) - Check if this will fix the issue.
