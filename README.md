@@ -1,4 +1,16 @@
 # Insix IT/Web work log
+**3-24-2021**
+- Added a feature to search by a specific client in the search-package page. (Fixed)
+- Added a feature to search between dates in the search-package page (Fixed) 
+- Internal Client inserted a wrong data to the driver app and shiptools. (Manually have to create SQL Query to fix the issue) (Fixed)
+
+**3-23-2021**
+- Internal Client computer Canada Post app not working (Fixed)
+- Investigating the issue with manually releasing the packages. 
+- Internal Client said it still not fixed. Confirmed working. (Fixed) 
+- Internal Client asks for new feature. On the search page, add the driver name, and when the route was created. (Fixed) 
+- Internal Client Add option to search between dates and have a calendar (In Progress)
+
 **3-22-2021**
 - Bug in the maps.php, Unable to the map in view map, Issue with apostrophies. (Fixed)
 - Bugs on routes.php. driver release on the admin side not working. Issue with xCrud, needs to merge update_driver_release function and update_cid_after_edit function.(Fixed)
