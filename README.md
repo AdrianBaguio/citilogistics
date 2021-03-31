@@ -1,4 +1,21 @@
 # Insix IT/Web work log
+**3-31-2021**
+- Continue working on updating the database while outputting whats being search from the Camera.
+- Issue when selecting parcels from the database. 1-5 queries throws an error.
+- Trying to use more optimize SQL Query for checking weather the parcel id is in the database.
+- Setup a new e-mail account for the newly hired Employee
+- Setup the laptop. Install 365 Office.
+- Clean up the 2 phone landlines. Test they are working. Just need the phone splitter for FB to add more landlines.
+- Added newly hired email to email group.
+- Help Matthew with the issue with internet connection. Sometimes he could not see myfbx.net
+- Issue a traceroute, looks like its pinging the right IP Address.
+- Tried changing the DNS server to google.
+- Fix folder permission for Internal Client.
+- Remove the weird user that has long numbers on it.
+- Trying to make so that only some internal clients can only access the Onyx Folder. (Fixed)
+- Internal Client wanted to move Onyx folder to Admin Shared.(Fixed)
+
+
 **3-24-2021**
 - Added a feature to search by a specific client in the search-package page. (Fixed)
 - Added a feature to search between dates in the search-package page (Fixed) 
