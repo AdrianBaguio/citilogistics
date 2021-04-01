@@ -1,4 +1,15 @@
 # Insix IT/Web work log
+**4-1-2021**
+- Continue working on the driver app integration with multiple location
+- Most admin pages needs to be updated (Fixed)
+- Index, Package details and package list and the submit PHP has to be updated in the driver side app. (Make sure that the app is open in between Mississauga/Vancouver time) (Fixed)
+- Fixed addresses when printing manifests in Mississauga/Vancouver. (Fixed)
+- Search results must be separated between Mississauga/Vancouver. (Fixed)
+Meeting with Staff in the public school board.
+- Fixing issue with Kiosk (In progress)
+- Fixing issue when scanning multiple parcels. The client just crashes. (In Progress)
+- looking for other bugs that may arise.
+
 **3-31-2021**
 - Continue working on updating the database while outputting whats being search from the Camera.
 - Issue when selecting parcels from the database. 1-5 queries throws an error.
