@@ -1,4 +1,16 @@
 # Insix IT/Web work log
+**4-5-2021**
+- Continue working with the driver app adding zoning.
+- Updated and created database table for the new zone live.
+- Push the admin sides of the zone in the production test to make sure everything is working as intended.
+- Driver page, generate barcode page, maps page, print-manifest page, routes page, search-package page, submit page, upload routing file page, users lists page
+- Updated both configs on the admin and the driver side. updated xcrud functions for zoning. updated functions on the admin side.
+- Continue working on the telnet app.
+- Doing another test. Camera seemed to be off.
+- Asking internal client for the state of the Camera.
+- Fixed the app, not displaying the correct Parcel ID.
+- Added a message when the database updates is in progress and finished.
+
 **4-1-2021**
 - Continue working on the driver app integration with multiple location
 - Most admin pages needs to be updated (Fixed)
