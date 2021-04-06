@@ -1,4 +1,24 @@
 # Insix IT/Web work log
+**4-6-2021**
+- Setting up a phone for Internal Staff. (Fixed)
+- Calculated how long the ethernet cable going to Internal Staff desk. (Fixed)
+- Created end pins for the ethernet cable. (Fixed)
+- clean up the phones, and set up the phone on her desk. (Fixed) 
+- Upgraded Internal Staff laptop's ram to 16 GB. (Fixed)
+- Password missing for aramex on Internal Staff new laptop (Fixed)
+- Figured out that she was using internet explorer, and there's no export password. (Fixed)
+- Instead downloaded a tool recommended by microsoft to view IE passwords. Asks her to take a picture. (Fixed)
+- Tried it on the new laptop, the password is correct and working (Fixed)
+- Issue with Internal Staff phone. Date/Time not updating (In Progress)
+- Working on the driverapp side of the app.
+- Uploaded new files to production.
+- Provided admins with the Global Account
+- Continue working with the telnet app
+- Left the app open overnight. Error still reoccuring. Continue investigating the issue.
+- Added more logs to view where the error occurs. (Fixed)
+- Fixed bugs on the code. Error fixed (Fixed)
+
+
 **4-5-2021**
 - Continue working with the driver app adding zoning.
 - Updated and created database table for the new zone live.
