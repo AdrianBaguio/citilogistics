@@ -1,4 +1,18 @@
 # Insix IT/Web work log
+**4-7-2021**
+Continue working with the driverapp
+- Added a feature to send drivers an e-mail message confirming they got assign to the new route. in Upload Route Page.
+- In the upload route page, added a feature so that it shows a loading icon when uploading a route.
+- Added a feature to show images on the list packages page.
+- There was a bug in the upload-route page on Global Zone. POD is missing. (Fixed)
+- Recent uploaded routes has POD = 0. Has to update them to 1 manually (Fixed)
+- Fix phone landline for Internal Staff.
+- After investigation, tried the ethernet cable in Citi it works. Try it again on FB, suddenly just works. The phone needs an update. Tested and working (Fixed)
+- Started upgrading Internal Staff's hard drive.
+- Error on cloning the hard drive. Bit encrypted is still on. Turning it off first.
+- Cloned the hard drive completed.
+- Encrypting the hard drive again.
+
 **4-6-2021**
 - Setting up a phone for Internal Staff. (Fixed)
 - Calculated how long the ethernet cable going to Internal Staff desk. (Fixed)
@@ -17,7 +31,6 @@
 - Left the app open overnight. Error still reoccuring. Continue investigating the issue.
 - Added more logs to view where the error occurs. (Fixed)
 - Fixed bugs on the code. Error fixed (Fixed)
-
 
 **4-5-2021**
 - Continue working with the driver app adding zoning.
