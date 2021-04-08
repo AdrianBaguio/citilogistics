@@ -1,4 +1,20 @@
 # Insix IT/Web work log
+**4-8-2021**
+- Internal Staff was saying there was bugs. Investigate and fixed the issue (Fixed)
+- Issue with the Kiosk. May not be able to use it, finding other solution. (In Progress)
+- Unable to figure out on how to run the app by kiosk. (In Progress)
+- Making the app run in full screen mode, and gets rid of maximizing and closing button. (In progress)
+- Internal Staff was saying her computer is slow.
+- Check the computer its fast, everything seemed to be in working fine.
+- Suggested to wait about a week since we just upgraded her hard drive. Outlook may still be doing some indexing from the new drive. 
+- Internal Staff called in early this morning. The app wasn't working. Wasn't taking any pictures. (Fixed)
+- Investigated the issue. Issue with google cloud. Trial is done, and needs to activate the billing method. (Fixed)
+- Internal Staff says that changing drivers from the route doesn't send email. Tested on my end its working. After further investigation, the e-mail was incorrect set from his account. (Confirmed Fixed)
+- Change driverapp automated e-mail to Internal Staff citi e-mail.
+- Internal Staff wanted access to the computer in the warehouse from his PC. (Fixed AD permissions)
+- Added a feature to display images from the search page..
+- Added a feature to download images by left click.
+
 **4-7-2021**
 Continue working with the driverapp
 - Added a feature to send drivers an e-mail message confirming they got assign to the new route. in Upload Route Page.
