@@ -1,4 +1,17 @@
 # Insix IT/Web work log
+**4-13-2021**
+- Developing feature for the driver app
+- Added a feature to add an option in the Package List page to add a business close option. (Added)
+- Has to update both Drivers/Admin side of pages for these changes. (Fixed)
+- Added a feature to view images from different angles. (Fixed)
+- Fix the issue that it's affecting other images on the page as well. (Fixed)
+- Checking in development telnet app. 
+- Fixed errors on the app. 
+- Camera not scanning while the database update is in progress. (Fixed) 
+- Doing a beta test of the app in the office 
+- - Remove 1st screen, and directly open the app. Created a server status label. 
+- - Removed img on the 2nd form.
+
 **4-8-2021**
 - Internal Staff was saying there was bugs. Investigate and fixed the issue (Fixed)
 - Issue with the Kiosk. May not be able to use it, finding other solution. (In Progress)
