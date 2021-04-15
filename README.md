@@ -1,4 +1,18 @@
 # Insix IT/Web work log
+**4-15-2021**
+- Continue developing the lexus app.
+- for the staff side
+- Add confirmation to upload an entry.  (Added)
+- Delete temporary data when a staff deleted an entry. (Added)
+- Saves data to the main tables when the staff submitted their entry. (Added)
+- Added title to the page. (Fixed)
+- Fix page redirection when logging out. (Fixed)
+- Added SBR rates to the database. (Added)
+- Finding a way to get the rate_code by the postal code. (In Progress)
+- Internal Staff was having issue with shiptools. Unable to find menu options. (Tried to zoom out at 90%) menu appears normally. Send this issue to other Web Dev.
+- Internal Staff was having issue with internet connection. Reopen a new tab. (Fixed)
+
+
 **4-13-2021**
 - Developing feature for the driver app
 - Added a feature to add an option in the Package List page to add a business close option. (Added)
