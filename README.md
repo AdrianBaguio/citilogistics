@@ -1,4 +1,19 @@
 # Insix IT/Web work log
+
+**4-19-2021**
+- Internal Staff computer is slow.
+-	Tried to speed up the computer
+-	disable every app that she doesn’t need in the background
+-	boot it up in safe mode (Only default Windows app should be running in here)
+-	even removed the AV anti-virus, which I thought was the issue.
+-	Recommends getting a new hard drive.
+- Started a new project for Lexus. 
+-	Created the function to calculate cost base on domestics charges rates  (Done)
+-	Finished the functions that get rates_codes in all provinces in Canada by postal code. (Done)
+-	Create/Design database table for USA rates (Done) 
+-	Insert USA rates in the database. (Done)
+-	Create the function to calculate costs base on USA rates (Pending)
+
 **4-15-2021**
 - Continue developing the lexus app.
 - for the staff side
@@ -11,7 +26,6 @@
 - Finding a way to get the rate_code by the postal code. (In Progress)
 - Internal Staff was having issue with shiptools. Unable to find menu options. (Tried to zoom out at 90%) menu appears normally. Send this issue to other Web Dev.
 - Internal Staff was having issue with internet connection. Reopen a new tab. (Fixed)
-
 
 **4-13-2021**
 - Developing feature for the driver app
