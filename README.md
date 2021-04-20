@@ -1,4 +1,17 @@
 # Insix IT/Web work log
+**4-20-2021
+- Continue working on the Lexus app.
+- Created a new class for USA deliveries, UPS, and Canada POST (Added)
+- Created Database for the USA deliveries (Added) 
+- Tested calculating fees for the USA, UPS, POST (So far the bugs encountered are fixed)
+- Finish up updating the database, doing calculation base on postal code and countries when submitting an entry (Fixed)
+- Making Classes for International Deliveries (Not Started)
+- Creating database architecture for international Deliveries (Not Started)
+- Inserting international data into the database (Not Started)
+- Setup the computer for Internal Staff to use temporarily while waiting for the new hard drive.
+- Internal Staff received a suspicious e-mail. Verified that the file is safe without a threat.
+- Temporarily allow Internal Staff to use other computer to do work.
+- Assist issue with the driver app not scanning ( Issue driver is scanning wrong parcels that does not belong to him ).
 
 **4-19-2021**
 - Internal Staff computer is slow.
