@@ -1,5 +1,21 @@
 # Insix IT/Web work log
-**4-20-2021
+**4-22-2021**
+- Continue working on the Lexis App.
+- Working on the back-end app for lexis. 
+- Updated xcrud
+- Organize so that it displays the date and data entries made on that day.
+- Added overall costs.
+- Updated reports page interface
+- Working with Internal Staff to better the table columns for the page.
+- Showed the app to Operations.
+- Clone Internal Hard drive.
+- Throws an error that some part of the drive can't be copied.
+- run chkdisk -r to fix the errors
+- Clone the drive
+- The computer runs 300% faster now.
+- Quickbooks not working (Fixed)
+- 
+**4-20-2021**
 - Continue working on the Lexus app.
 - Created a new class for USA deliveries, UPS, and Canada POST (Added)
 - Created Database for the USA deliveries (Added) 
