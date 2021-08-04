@@ -1,4 +1,14 @@
 # Insix IT/Web work log
+**8-04-2021**
+- Rename variable names.
+- Added Server sockets for PLC and Cognex camera
+- Added app_delay configuration.
+- Added feature to re-connect to the PLC server if ever it gets disconnected.
+- Added an execution time in milliseconds.
+- Added feature to send get request to the FB API.
+- Added a feature so that the PLC can also send response to our application.
+- Working on incremental database update ( In Progress )
+
 **4-22-2021**
 - Continue working on the Lexis App.
 - Working on the back-end app for lexis. 
@@ -14,7 +24,7 @@
 - Clone the drive
 - The computer runs 300% faster now.
 - Quickbooks not working (Fixed)
-- 
+
 **4-20-2021**
 - Continue working on the Lexus app.
 - Created a new class for USA deliveries, UPS, and Canada POST (Added)
