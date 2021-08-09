@@ -1,4 +1,11 @@
 # Insix IT/Web work log
+**8-06-2021**
+- Added output_format_string to the configuration.
+- Added feature to add looping on database update.
+- Removed error 00360 as no longer needed to catch this error in UpdateSQL
+- Added message when the processing starts, and when it ends.
+- Added a feature to send e-mail message to users when the application is launched.
+
 **8-04-2021**
 - Rename variable names.
 - Added Server sockets for PLC and Cognex camera
